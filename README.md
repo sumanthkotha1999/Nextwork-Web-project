@@ -54,8 +54,8 @@ To get this project up and running on your local machine, follow these steps:
 
 ## Contact
 If you have any questions or comments about the NextWork Web Project, please contact:
-sumanthkotha1999 - [sumanthkothamasters@gmail.com](mailto:sumanthkothamasters@gmail.com)
-Linked In - [[Linked In](https://www.linkedin.com/in/sumanth0728/)]
+- sumanthkotha1999 - [sumanthkothamasters@gmail.com](mailto:sumanthkothamasters@gmail.com)
+- Linked In - [[https://www.linkedin.com/in/sumanth0728/](https://www.linkedin.com/in/sumanth0728/)]
 
 <br>
 
